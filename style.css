@@ -1,0 +1,113 @@
+#head{
+background-color: rgb(199, 39, 127);
+text-align: rgb(26, 26, 25);
+font-family: Arial, Helvetica, sans-serif;
+margin: 1;
+margin-left: 0.5;
+margin-right: 0.5;
+}
+.sky01{
+
+background-color: #010C3C;
+margin: 0%;
+left margin: 1;
+right margin: 1;
+padding: 1%;
+color: white;
+}
+.sky02{
+    background-color: #051F8B;
+    margin: 0%;
+    margin-left:1;
+    margin-right:1;
+    padding: 1%;
+    color: white;
+    }
+    .sky03{
+        background-color:#1635B7;
+        margin: 0%;
+        margin-left:1;
+        margin-right:1;
+        padding: 1%;
+        color: white;
+        }
+        .sky04{
+            background-color:#0D299F;
+            margin: 0%;
+            margin-left:1;
+            margin-right:1;
+            padding: 1%;
+            color: white;
+            }
+            .sky05{
+                background-color:#193DD1;
+                margin: 0%;
+                margin-left:1;
+                margin-right:1;
+                padding: 1%;
+                color: white;
+                }
+                .sky06{
+                    background-color:#1941E5;
+                    margin: 0%;
+                    margin-left:1;
+                    margin-right:1;
+                    padding: 1%;
+                    color: white;
+                    }
+                    .sky07{
+                        background-color:#075908;
+                        margin: 0%;
+                        margin-left:2;
+                        margin-right:2;
+                        padding: 1%;
+                        color: white;
+                        }
+                        .sky08{
+                            background-color:#72044A;
+                            margin: 0%;
+                            margin-left:2;
+                            margin-right:2;
+                            padding: 1%;
+                            color: white;
+                            }
+                            .sky09{
+                                background-color:#7E0753;
+                                margin: 0%;
+                                margin-left:2;
+                                margin-right:2;
+                                padding: 1%;
+                                color: white;
+                                }
+                                .sky10{
+                                    background-color:#A81774;
+                                    margin: 0%;
+                                    margin-left:2;
+                                    margin-right:2;
+                                    padding: 1%;
+                                    color: white;
+                                    }
+                                    .sky11{
+                                        background-color:#B0217D;
+                                        margin: 0%;
+                                        margin-left:2;
+                                        margin-right:2;
+                                        padding: 1%;
+                                        color: white;
+                                        }
+                                        .sky12{
+                                            background-color:#C32B8D;
+                                            margin: 0%;
+                                            margin-left:2;
+                                            margin-right:2;
+                                            padding: 1%;
+                                            color: white;
+                                            }
+                                            .sky13{
+                                                background-color:#CB54A1;
+                                                margin: 0%;
+                                                margin-left:2;
+                                                margin-right:2;
+                                                padding: 1%;
+                                                color: white;
+                                                }
